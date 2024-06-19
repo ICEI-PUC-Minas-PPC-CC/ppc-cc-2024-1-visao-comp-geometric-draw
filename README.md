@@ -4,6 +4,8 @@
 `Disciplina: Visão Computacional e Realidade Aumentada`
 `2024 - Semestre 1`
 
+<img src="docs/img/thumbnail.png" alt="Geometric Draw">
+
 ## Integrantes
 
 - Lucas de Godoi Moraes
@@ -20,7 +22,7 @@
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src"> Código Fonte</a></li>
 
 # Apresentação
 
